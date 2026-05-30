@@ -1,0 +1,32 @@
+{
+  "name": "@theunwindfront/laravel-blade-variants",
+  "version": "1.0.0",
+  "description": "Tailwind CSS v4 plugin for native, browser-driven Laravel Blade component variant and state styling.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theunwindfront/laravel-blade-variants.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "tailwindcss-plugin",
+    "laravel",
+    "blade",
+    "laravel-blade",
+    "blade-components",
+    "variants"
+  ],
+  "author": "Sagar Pansuriya (theunwindfront)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theunwindfront/laravel-blade-variants/issues"
+  },
+  "homepage": "https://github.com/theunwindfront/laravel-blade-variants#readme",
+  "peerDependencies": {
+    "tailwindcss": "^4.0.0"
+  }
+}
