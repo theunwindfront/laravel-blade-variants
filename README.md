@@ -108,7 +108,14 @@ To use a custom state value not included in the presets, use Tailwind's arbitrar
 ```
 This compiled selector resolves natively to `[data-variant="custom-glass"]`.
 
----
+## 👥 Credits
 
-## License
-MIT
+- **[Sagar Pansuriya](https://github.com/theunwindfront)** - Lead Creator & Developer
+
+## 🤝 Support
+
+For questions or issues, contact **pansuriya.sagar94@gmail.com**
+
+## 📄 License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
