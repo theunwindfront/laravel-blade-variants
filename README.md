@@ -3,6 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/theunwindfront/laravel-blade-variants.svg?style=flat-square)](https://packagist.org/packages/theunwindfront/laravel-blade-variants)
 [![Total Downloads](https://img.shields.io/packagist/dt/theunwindfront/laravel-blade-variants.svg?style=flat-square)](https://packagist.org/packages/theunwindfront/laravel-blade-variants)
 [![NPM Version](https://img.shields.io/npm/v/%40theunwindfront/laravel-blade-variants.svg?style=flat-square)](https://www.npmjs.com/package/@theunwindfront/laravel-blade-variants)
+[![NPM Downloads](https://img.shields.io/npm/dm/%40theunwindfront/laravel-blade-variants.svg?style=flat-square)](https://www.npmjs.com/package/@theunwindfront/laravel-blade-variants)
 [![License](https://img.shields.io/packagist/l/theunwindfront/laravel-blade-variants.svg?style=flat-square)](https://packagist.org/packages/theunwindfront/laravel-blade-variants)
 
 A CSS-native, browser-driven Tailwind CSS v4 plugin to manage variants, sizes, and states for Laravel Blade components with **zero server-side rendering overhead**.
