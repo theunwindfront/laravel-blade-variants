@@ -32,7 +32,10 @@ The browser automatically activates styles based on DOM attributes. This **compl
 
 ## Installation
 
+Install the package via Composer (for Blade component integration) and NPM (for the Tailwind CSS plugin):
+
 ```bash
+composer require theunwindfront/laravel-blade-variants
 npm install @theunwindfront/laravel-blade-variants
 ```
 
